@@ -1,5 +1,5 @@
 ## Lab work
-Clone this repo in your computer by running `git clone https://github.com/null-ptr256/wpcl`
+Clone this repo in your computer by running `git clone https://github.com/null-ptr256/wpcl`.
 Open a git repo in your computer, and copy the file `taskList.java` to it
 <br>
 You've to perform the following tasks:
