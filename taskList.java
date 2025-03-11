@@ -4,7 +4,7 @@ static Scanner s = new Scanner(System.in);
 static List<String> l = new ArrayList<>();
 public static void main(String[] a){
   while(true){
-System.out.println("1: Add 2: Rm 3: Show 4: Ex");
+System.out.println("1: Add 2: Remove 3: Show 4: Exit");
 int c = s.nextInt();
  if(c==1){
  System.out.print("N: ");
