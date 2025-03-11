@@ -2,7 +2,7 @@
 Clone this repo in your computer by running `git clone https://github.com/null-ptr256/wpcl`
 Open a git repo in your computer, and copy the file `taskList.java` to it
 <br>
-You're given a java file `taskList.java`, you've to perform the following tasks:
+You've to perform the following tasks:
 <br>
 Note that: you've to commit after completing each task
 
